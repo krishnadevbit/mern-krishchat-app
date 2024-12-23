@@ -1,6 +1,8 @@
-# ✨ Full Stack Realtime Chat App ✨
+# ✨ Mern Realtime KrishChat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+### Register Page
+
+(/frontend/public/register.png)
 
 Highlights:
 
