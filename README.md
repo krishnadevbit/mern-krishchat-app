@@ -2,7 +2,7 @@
 
 ### Register Page
 
-[](/frontend/public/register.png)
+![Register](/frontend/public/register.png)
 
 Highlights:
 
