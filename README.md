@@ -1,8 +1,24 @@
 # ✨ Mern Realtime KrishChat App ✨
 
-### Register Page
+## Register Page
 
 ![Register](/frontend/public/register.png)
+
+## Login Page
+
+![Login](/frontend/public/login.png)
+
+## Theme Settings Page
+
+![Theme](/frontend/public/theme.png)
+
+## Chat Interface Page
+
+![Chat](/frontend/public/chat.png)
+
+## Profile Page
+
+![Profile](/frontend/public/profile.png)
 
 Highlights:
 
